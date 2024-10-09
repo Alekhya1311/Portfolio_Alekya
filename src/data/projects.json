@@ -1,26 +1,58 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "YouDescribeX",
+    "imageSrc": "projects/youdescribe.png",
+    "description": "This is platform that enhances accessibility for blind users by providing AI-generated audio descriptions for YouTube videos",
+    "skills": [
+      "NLP",
+      "Python",
+      "Keras",
+      "TensorFlow",
+      "React",
+      "Node",
+      "PostgreSQL"
+    ],
+    "demo": "https://ydx-dev.youdescribe.org/home",
+    "source": "https://github.com/youdescribe-sfsu/YouDescribeX-app"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Picture Perfect",
+    "imageSrc": "projects/picture.png",
+    "description": "This project is for content creators by providing them with a set of tools for image editing, photo organization, search and sell their visual content",
+    "skills": [
+      "ReactJs",
+      "Django",
+      "Jest",
+      "MySQL",
+      "AWS EC2",
+      "Python",
+      "Javascript"
+    ],
+    "demo": "https://www.figma.com/proto/Xme6qsYAs4Db9xThflGr5G/Picture-Perfect-app?content-scaling=fixed&kind=proto&node-id=223-34&page-id=0%3A1&scaling=scale-down&starting-point-node-id=223%3A174",
+    "source": "https://github.com/Alekhya1311/PicturePerfect/tree/master"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Hotel Management System",
+    "imageSrc": "projects/hotel.png",
+    "description": "This application is designed to enhance the management of hotel operations. It provides a platform for hotel administrators and guests to efficiently handle room bookings and pricing.",
+    "skills": ["React", "Javascript", "SpringBoot", "AWS", "MongoDB"],
+    "demo": "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExejlwMTE2cWt4aTVwYTJhbjdydjZtYnlnbHd0djV2eTE4dzlzdTloNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ayxNxlSeXoYlfUs6aG/giphy.gif",
+    "source": "https://github.com/Alekhya1311/hotel_Management/tree/main"
+  },
+  {
+    "title": "Trendz - Prime Products",
+    "imageSrc": "projects/trends.png",
+    "description": "This Project is to help users easily find and explore products. Upon accessing the app, users can search for products by entering keywords or by selecting categories and ratings.",
+    "skills": ["React", "Javascript", "Express", "Node", "CSS"],
+    "demo": "https://assets.ccbp.in/frontend/content/react-js/nxt-trendz-products-filter-group-output.gif",
+    "source": "https://github.com/Alekhya1311/website-with-prime-filters"
+  },
+  {
+    "title": "Project Rebound",
+    "imageSrc": "projects/rebound.png",
+    "description": "This project aims to provide personalized educational resources for incarcerated students by developing a user-friendly platform that addresses their unique needs, enhancing their learning experience.",
+    "skills": ["Figma", "Miro", "Heuristic evaluation", "Usability testing"],
+    "demo": "https://alekhya1311.github.io/projectRebound/",
+    "source": "https://github.com/Alekhya1311/projectRebound/tree/main"
   }
 ]

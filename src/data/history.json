@@ -1,11 +1,16 @@
 [
   {
-    "role": "Software Engineer",
-    "organisation": "Google",
-    "startDate": "Sept, 2022",
-    "endDate": "Present",
-    "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
-    "imageSrc": "history/google.png"
+    "role": "Full Stack Software Engineer Intern",
+    "organisation": "LendingClub",
+    "startDate": "June, 2024",
+    "endDate": "August, 2024",
+    "experiences": [
+      "Improved customer satisfaction and reduced TAT by 2 days by designing Figma prototypes and developing a UI dashboard for deposit application lifecycle.",
+      "Developed API endpoints and integrated Okta for role-based access control.",
+      "Created layouts for viewing request-response payloads, cutting error resolution time by 20%.",
+      "Automated deployment with CI/CD pipelines using Jenkins and MacGyver, reducing deployment time."
+    ],
+    "imageSrc": "history/lendingClub.png"
   },
   {
     "role": "UI Designer",

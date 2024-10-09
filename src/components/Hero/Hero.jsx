@@ -7,17 +7,23 @@ export const Hero = () => {
   return (
     <section className={styles.container}>
       <div className={styles.content}>
-        <h1 className={styles.title}>Hi, I'm Ada</h1>
+        <h1 className={styles.title}>Hi, I'm Alekya</h1>
         <p className={styles.description}>
-          I'm a full-stack developer with 5 years of experience using React and
-          NodeJS. Reach out if you'd like to learn more!
+          I am a Full Stack Developer and ML enthusiast with 3+ years of
+          experience in building user-focused web applications. Currently, I am
+          a CS graduate student at San Francisco State University. Passionate
+          about AI, particularly in NLP and Computer Vision, I am eager to make
+          a meaningful impact through innovative solutions.
+        </p>
+        <p className={styles.description}>
+          Please reach out to learn more about me!
         </p>
         <a href="mailto:myemail@email.com" className={styles.contactBtn}>
           Contact Me
         </a>
       </div>
       <img
-        src={getImageUrl("hero/heroImage.png")}
+        src={getImageUrl("hero/heroImage.jpeg")}
         alt="Hero image of me"
         className={styles.heroImg}
       />
